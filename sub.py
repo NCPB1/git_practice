@@ -1,4 +1,5 @@
 a = 20
 b = 10
-sub = a-b
+c = 5
+sub = a-b-c
 print('sub =',sub)
